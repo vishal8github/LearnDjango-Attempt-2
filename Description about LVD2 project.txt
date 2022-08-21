@@ -7,7 +7,8 @@ Prerequisites:
 	Relational database
 
 DESCRIPTION:
-	This project is used to print "Hello Wolrd" in browser
+	This project is used to print "Hello Vishal" using templates.
+	This project shows how to use templates 
 	
 
 reference:
